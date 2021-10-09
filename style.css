@@ -21,8 +21,10 @@ h5,h4{
 
 hr{
   border-color: white;
-  border-width: 3px;
+  border-width: 1.2px;
   max-width: 65px;
+  border-radius: 100px;
+  background-color: white;
   color:white; 
   border-style:solid;
 }
