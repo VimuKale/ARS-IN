@@ -23,6 +23,8 @@ hr{
   border-color: white;
   border-width: 3px;
   max-width: 65px;
+  color:white; 
+  border-style:solid;
 }
 .buffer{
   height: 4rem;
