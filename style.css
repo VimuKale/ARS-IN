@@ -10,11 +10,11 @@ html {
   background-size: cover;
 }
 
-
 h1{
   font-size: 3rem;
-  color: #4285F4;
+  color : #047bfb;
 }
+
 h5,h4{
   color: white;
 }
@@ -46,5 +46,7 @@ hr{
 }*/
 
 .btn-primary:hover{
+  /*background-color: darkorange;
+  border-color: darkorange;*/
   border-width: 2px;
 }
